@@ -9,7 +9,7 @@ class ProdEnvironment implements EnvironmentInterface
      */
     public function getWSDLUrl(): string
     {
-        return 'https://wyszukiwarkaregon.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl-ver11-prod.wsdl';
+        return 'https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl.xsd';
     }
 
     /**
