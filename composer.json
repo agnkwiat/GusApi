@@ -1,5 +1,5 @@
 {
-  "name": "gusapi/gusapi",
+  "name": "gusapi-old/gusapi",
   "description": "Gus Api Library for PHP",
   "type" : "library",
   "license": "LGPL-2.1-or-later",
@@ -8,6 +8,10 @@
     {
       "name": "Janusz Żukowicz",
       "email": "janusz.zukowicz@gmail.com"
+    },
+    {
+      "name": "Agnieszka Kwiatkowska",
+      "email": "agnkwiat@gmail.com"
     }
   ],
   "require": {
